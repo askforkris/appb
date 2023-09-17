@@ -1,0 +1,11 @@
+{
+  "name": "my-image-bio-app",
+  "version": "1.0.0",
+  "description": "An example image and bio application",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
