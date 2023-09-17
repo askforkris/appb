@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Image and Bio Section</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+    <div class="dropdown">
+        <img src="Astro.png" alt="Image 2" width="150" height="150" onclick="showOverlay(0)">
+        <div class="dropdown-content">
+            <img src="Ciany.png" alt="Image 2" width="150" height="150" onclick="showOverlay(1)">
+            <img src="image3.jpg" alt="Image 3" onclick="showOverlay(2)">
+            <img src="image4.jpg" alt="Image 4" onclick="showOverlay(3)">
+        </div>
+    </div>
+
+    <!-- Overlay for displaying bio and download link -->
+    <div class="overlay" id="imageOverlay">
+        <div class="overlay-content">
+            <h2>Bio</h2>
+            <p id="bioText">
+                <!-- Bio content will be dynamically loaded here -->
+            </p>
+            <a class="download-link" id="downloadLink" href="#" download>Download ePub</a>
+            <button onclick="hideOverlay()">Close</button>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
