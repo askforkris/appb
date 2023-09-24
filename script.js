@@ -13,7 +13,15 @@ const bios = [
         epubPath: 'Duel_intercept.epub'
     },
     {
-        text: "Bio for Image 4: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet quam velit. Nulla ut magna lobortis, egestas erat quis, aliquet est. Sed vel massa a felis imperdiet ultricies. Duis vel auctor arcu.",
+        text: "Bio for Image 4: In "Unlocking Time: Secrets of the Unknown," journey into a world where the boundaries of reality are constantly shifting, and the doors to the past and future are waiting to be opened. This gripping narrative unfolds as a thrilling blend of science fiction, mystery, and intrigue, taking readers on an exhilarating ride through the uncharted territories of time.
+
+Jonathan, a brilliant scientist, stumbles upon an astonishing discovery—a way to manipulate time itself. As he delves deeper into the mysteries of time travel, he finds himself entangled in a web of secrets, espionage, and potential extraterrestrial encounters. The keys to unlocking the truth lie within the confines of his research, but they come at a cost.
+
+Mariam, his steadfast partner, undergoes a transformation that leads her on a quest for inner peace and a path less traveled. Their love story becomes a centerpiece of the narrative, as they navigate the complexities of their research, personal aspirations, and a world in which hidden agendas and rivalries abound.
+
+When the CIA takes an interest in their groundbreaking work, the story takes a sharp turn, revealing the existence of locked doors to parallel dimensions and possible encounters with beings from beyond our world. As the characters race to uncover the truth, they are faced with choices that could alter the course of humanity.
+
+"Unlocking Time: Secrets of the Unknown" is a tale of ambition, love, and the quest for knowledge, where doors to the past and future swing open, revealing a reality beyond imagination. Join Jonathan and Mariam on their journey to unlock the greatest mysteries of all—time itself..",
         epubPath: 'epub_4'
     }
 ];
