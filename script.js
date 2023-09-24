@@ -22,7 +22,7 @@ Mariam, his steadfast partner, undergoes a transformation that leads her on a qu
 When the CIA takes an interest in their groundbreaking work, the story takes a sharp turn, revealing the existence of locked doors to parallel dimensions and possible encounters with beings from beyond our world. As the characters race to uncover the truth, they are faced with choices that could alter the course of humanity.
 
 "Unlocking Time: Secrets of the Unknown" is a tale of ambition, love, and the quest for knowledge, where doors to the past and future swing open, revealing a reality beyond imagination. Join Jonathan and Mariam on their journey to unlock the greatest mysteries of all—time itself..",
-        epubPath: 'epub_4'
+        epubPath: 'Due_ chat_gpt.epub'
     }
 ];
 
