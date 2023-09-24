@@ -13,7 +13,7 @@ lconst bios = [
         epubPath: 'Duel_intercept.epub'
     },
     {
-        text: "Bio for duel_2: In "Unlocking Time: Secrets of the Unknown," journey into a world where the boundaries of reality are constantly shifting, and the doors to the past and future are waiting to be opened. This gripping narrative unfolds as a thrilling blend of science fiction, mystery, and intrigue, taking readers on an exhilarating ride through the uncharted territories of time.
+        text: "Bio for Duel intercept continued: In "Unlocking Time: Secrets of the Unknown," journey into a world where the boundaries of reality are constantly shifting, and the doors to the past and future are waiting to be opened. This gripping narrative unfolds as a thrilling blend of science fiction, mystery, and intrigue, taking readers on an exhilarating ride through the uncharted territories of time.
 
 Jonathan, a brilliant scientist, stumbles upon an astonishing discovery—a way to manipulate time itself. As he delves deeper into the mysteries of time travel, he finds himself entangled in a web of secrets, espionage, and potential extraterrestrial encounters. The keys to unlocking the truth lie within the confines of his research, but they come at a cost.
 
