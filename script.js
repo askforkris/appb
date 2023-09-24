@@ -10,11 +10,11 @@ const bios = [
     },
     {
         text: "Bio for Duel intercept: A scientist willing to accomplish his goal by any means. Curing cancer has been his goal for twenty five years. Johnathan travels to the past to stop his old company from switching focus. His lies catch up with him when he has to rely on his old assistant Ms. Lin.",
-        epubPath: 'image3.epub'
+        epubPath: 'Duel_intercept.epub'
     },
     {
         text: "Bio for Image 4: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet quam velit. Nulla ut magna lobortis, egestas erat quis, aliquet est. Sed vel massa a felis imperdiet ultricies. Duis vel auctor arcu.",
-        epubPath: 'Duel_intercept.epub'
+        epubPath: 'epub_4'
     }
 ];
 
